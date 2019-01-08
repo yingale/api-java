@@ -1,3 +1,11 @@
-spring.datasource.url=jdbc:mysql://hots:3306/database
+spring.datasource.url=jdbc:mysql://localhost:3306/productmatrix
 spring.datasource.username=root
-spring.datasource.password=
+spring.datasource.password=alfa@123
+spring.auth.password=65979afadee964ddc8b77b8e89cd1256
+spring.auth.ips=192.168.41.28,192.168.50.166,127.0.0.1,192.168.41.62,14.142.143.138,202.162.247.63,14.142.143.138,59.163.11.66,219.91.244.74,123.201.124.74
+
+
+spring.mail.pop3Host=sm1.netcore.in
+spring.mail.pop3Port=993
+
+spring.auth.user=Admin
